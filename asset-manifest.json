@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d922d93.css",
+    "main.js": "/static/js/main.6f429ed5.js",
+    "static/js/453.12861972.chunk.js": "/static/js/453.12861972.chunk.js",
+    "static/media/SM1052673.jpg": "/static/media/SM1052673.0aef5ffcb93727d6b362.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/png-transparent-career-development-computer-icons-job-employment-career-coach-blue-logo-employment.png": "/static/media/png-transparent-career-development-computer-icons-job-employment-career-coach-blue-logo-employment.2df0194c31939e06c9bc.png",
+    "index.html": "/index.html",
+    "main.0d922d93.css.map": "/static/css/main.0d922d93.css.map",
+    "main.6f429ed5.js.map": "/static/js/main.6f429ed5.js.map",
+    "453.12861972.chunk.js.map": "/static/js/453.12861972.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d922d93.css",
+    "static/js/main.6f429ed5.js"
+  ]
+}
